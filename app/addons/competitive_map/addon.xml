@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>competitive_map</id>
+    <version>1.0</version>
+    <priority>10000</priority>
+    <position>0</position>
+    <default_language>ru</default_language>
+    <status>active</status>
+    <supplier>A. Larionov | CS-Cart</supplier>
+</addon>

@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::competitive_map"
+msgid "Competitive Map"
+msgstr "Competitive Map"
+
+msgctxt "Languages::competitive_map_popup_descr"
+msgid "All the details reflected in the current search results, taking into account the selected filters, will be included in the XLS document."
+msgstr "All the details reflected in the current search results, taking into account the selected filters, will be included in the XLS document."
+
+msgctxt "Languages::competitive_map_download"
+msgid "Download the competitive map"
+msgstr "Download the competitive map"
