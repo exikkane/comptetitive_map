@@ -15,3 +15,7 @@ msgstr "All the details reflected in the current search results, taking into acc
 msgctxt "Languages::competitive_map_download"
 msgid "Download the competitive map"
 msgstr "Download the competitive map"
+
+msgctxt "Languages::competitive_map"
+msgid "Competitive Map"
+msgid "Competitive Map"

@@ -23,3 +23,7 @@ msgstr "Все детали, отраженные в текущей поиско
 msgctxt "Languages::competitive_map_download"
 msgid "Download the competitive map"
 msgstr "Скачать конкурентную карту"
+
+msgctxt "Languages::competitive_map"
+msgid "Competitive Map"
+msgstr "Конкурентная карта"
